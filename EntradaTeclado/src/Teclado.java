@@ -5,7 +5,7 @@ public class Teclado {
         Scanner scn = new Scanner(System.in);
         System.out.println("Escribe tu edad: ");
         int edad = scn.nextInt(); 
-        System.out.println("La edad que nos proporcionaste es:" +edad);
+        System.out.println("La edad que nos proporcionaste es: " +edad);
         System.out.println("gracias por darnos la información");
     }
 }

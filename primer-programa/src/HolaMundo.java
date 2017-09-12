@@ -13,6 +13,9 @@ public class HolaMundo {
     
     public static void main(String[] args) {
         System.out.println("Hola Mundo Javi");
+        int a =7;
+        int b =3;
+        System.err.println(a+b);
         
     }
     
